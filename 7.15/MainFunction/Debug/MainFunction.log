@@ -1,0 +1,4 @@
+﻿math.obj : error LNK2005: "int __cdecl forOneToTen(void)" (?forOneToTen@@YAHXZ) 已经在 MainFunction.obj 中定义
+math.obj : error LNK2005: "int __cdecl mainfun(void)" (?mainfun@@YAHXZ) 已经在 MainFunction.obj 中定义
+math.obj : error LNK2005: "int __cdecl whileOneToTen(void)" (?whileOneToTen@@YAHXZ) 已经在 MainFunction.obj 中定义
+S:\SoftWare\Visual Studio 2017\VC\Project\7.15\MainFunction\Debug\MainFunction.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
