@@ -9,10 +9,11 @@ int pushString();
 int sumLong();
 int toUpper();
 int changeTen();
+int ioVector();
 
 int main()
 {
-	changeTen();
+	ioVector();
 
 	system("pause");
 	return 0;
@@ -92,6 +93,23 @@ int changeTen()
 	{
 		*iter *= 2;
 		cout << *iter << "\t";
+	}cout << endl;
+	return 0;
+}
+
+int ioVector()
+{
+	vector<string> str;
+	string temp;
+
+	while (cin >> temp)
+	{
+		str.push_back(temp);
+	}
+	vector<string>::iterator iter = str.begin();
+	while (iter != str.end())
+	{
+		cout << *iter++ << "(" << (*iter).length() << ") ";
 	}cout << endl;
 	return 0;
 }

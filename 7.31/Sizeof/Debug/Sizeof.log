@@ -1,0 +1,8 @@
+﻿  sizeof.cpp
+s:\software\visual studio 2017\vc\project\premier-cpp\7.31\sizeof\sizeof.cpp(11): warning C4309: “初始化”: 截断常量值
+s:\software\visual studio 2017\vc\project\premier-cpp\7.31\sizeof\sizeof.cpp(12): warning C4309: “初始化”: 截断常量值
+s:\software\visual studio 2017\vc\project\premier-cpp\7.31\sizeof\sizeof.cpp(14): warning C4305: “初始化”: 从“unsigned __int64”到“float”截断
+s:\software\visual studio 2017\vc\project\premier-cpp\7.31\sizeof\sizeof.cpp(15): warning C4305: “初始化”: 从“unsigned __int64”到“double”截断
+s:\software\visual studio 2017\vc\project\premier-cpp\7.31\sizeof\sizeof.cpp(16): warning C4305: “初始化”: 从“unsigned __int64”到“long double”截断
+  Sizeof.vcxproj -> S:\SoftWare\Visual Studio 2017\VC\Project\Premier-CPP\7.15\MainFunction\Debug\Sizeof.exe
+  Sizeof.vcxproj -> S:\SoftWare\Visual Studio 2017\VC\Project\Premier-CPP\7.15\MainFunction\Debug\Sizeof.pdb (Partial PDB)

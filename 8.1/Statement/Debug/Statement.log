@@ -1,0 +1,11 @@
+﻿  statement.cpp
+s:\software\visual studio 2017\vc\project\premier-cpp\8.1\statement\statement.cpp(115): warning C4477: “printf”: 格式字符串“%.8x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>”
+s:\software\visual studio 2017\vc\project\premier-cpp\8.1\statement\statement.cpp(115): warning C4477: “printf”: 格式字符串“%.8x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>”
+s:\software\visual studio 2017\vc\project\premier-cpp\8.1\statement\statement.cpp(116): warning C4477: “printf”: 格式字符串“%.8x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>”
+s:\software\visual studio 2017\vc\project\premier-cpp\8.1\statement\statement.cpp(116): warning C4477: “printf”: 格式字符串“%.8x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>”
+s:\software\visual studio 2017\vc\project\premier-cpp\8.1\statement\statement.cpp(133): warning C4477: “printf”: 格式字符串“%.8x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>”
+s:\software\visual studio 2017\vc\project\premier-cpp\8.1\statement\statement.cpp(133): warning C4477: “printf”: 格式字符串“%.8x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>”
+s:\software\visual studio 2017\vc\project\premier-cpp\8.1\statement\statement.cpp(134): warning C4477: “printf”: 格式字符串“%.8x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>”
+s:\software\visual studio 2017\vc\project\premier-cpp\8.1\statement\statement.cpp(134): warning C4477: “printf”: 格式字符串“%.8x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>”
+  Statement.vcxproj -> S:\SoftWare\Visual Studio 2017\VC\Project\Premier-CPP\7.15\MainFunction\Debug\Statement.exe
+  Statement.vcxproj -> S:\SoftWare\Visual Studio 2017\VC\Project\Premier-CPP\7.15\MainFunction\Debug\Statement.pdb (Partial PDB)
